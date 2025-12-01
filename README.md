@@ -27,7 +27,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/MarkOfUs/FishTracker9000">
-        <img src="https://raw.githubusercontent.com/MarkOfUs/MarkOfUs/main/fish.jpeg" width="350" alt="FishTracker9000 Preview"/>
+        <img src="https://raw.githubusercontent.com/MarkOfUs/MarkOfUs/main/fish.png" width="350" alt="FishTracker9000 Preview"/>
       </a>
       <br />
       <sub><b>FishTracker9000</b></sub>
