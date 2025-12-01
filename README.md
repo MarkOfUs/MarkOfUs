@@ -11,3 +11,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+
+## 📌 Pinned Projects
+
+[![Deaflingo](https://raw.githubusercontent.com/MarkOfUs/Deaflingo/main/.github/social-preview.png)](https://github.com/MarkOfUs/Deaflingo)
