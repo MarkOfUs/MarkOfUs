@@ -18,7 +18,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/MarkOfUs/Deaflingo">
-        <img src="https://raw.githubusercontent.com/MarkOfUs/MarkOfUs/main/deaflingo.jpeg" width="350" alt="Deaflingo Preview"/>
+        <img src="https://raw.githubusercontent.com/MarkOfUs/MarkOfUs/main/deaflingo.jpg" width="350" alt="Deaflingo Preview"/>
       </a>
       <br />
       <sub><b>Deaflingo</b></sub>
