@@ -12,8 +12,6 @@
   </a>
 </p>
 
----
-
 ## 📌 Pinned Projects
 
 <table align="center">
