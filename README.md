@@ -12,7 +12,18 @@
   </a>
 </p>
 
+---
 
 ## 📌 Pinned Projects
 
-[![Deaflingo](https://raw.githubusercontent.com/MarkOfUs/Deaflingo/main/.github/social-preview.png)](https://github.com/MarkOfUs/Deaflingo)
+<p align="center">
+  <a href="https://github.com/MarkOfUs/Deaflingo">
+    <img src="https://raw.githubusercontent.com/MarkOfUs/MarkOfUs/main/deaflingo.jpeg" width="420" alt="Deaflingo Preview" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MarkOfUs/FishTracker9000">
+    <img src="https://raw.githubusercontent.com/MarkOfUs/MarkOfUs/main/fish.jpeg" width="420" alt="FishTracker9000 Preview" />
+  </a>
+</p>
