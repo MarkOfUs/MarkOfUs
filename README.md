@@ -16,14 +16,22 @@
 
 ## 📌 Pinned Projects
 
-<p align="center">
-  <a href="https://github.com/MarkOfUs/Deaflingo">
-    <img src="https://raw.githubusercontent.com/MarkOfUs/MarkOfUs/main/deaflingo.jpeg" width="420" alt="Deaflingo Preview" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MarkOfUs/Deaflingo">
+        <img src="https://raw.githubusercontent.com/MarkOfUs/MarkOfUs/main/deaflingo.jpeg" width="350" alt="Deaflingo Preview"/>
+      </a>
+      <br />
+      <sub><b>Deaflingo</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MarkOfUs/FishTracker9000">
+        <img src="https://raw.githubusercontent.com/MarkOfUs/MarkOfUs/main/fish.jpeg" width="350" alt="FishTracker9000 Preview"/>
+      </a>
+      <br />
+      <sub><b>FishTracker9000</b></sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/MarkOfUs/FishTracker9000">
-    <img src="https://raw.githubusercontent.com/MarkOfUs/MarkOfUs/main/fish.jpeg" width="420" alt="FishTracker9000 Preview" />
-  </a>
-</p>
