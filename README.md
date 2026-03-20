@@ -24,11 +24,11 @@
       <sub><b>Deaflingo</b></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/MarkOfUs/FishTracker9000">
-        <img src="https://raw.githubusercontent.com/MarkOfUs/MarkOfUs/main/fish.jpg?raw=1" width="350" alt="FishTracker9000 Preview"/>
+      <a href="https://github.com/MarkOfUs/wildfires">
+        <img src="https://raw.githubusercontent.com/MarkOfUs/wildfires/blob/main/poster.jpg" width="350" alt="Wildfire Modeling Preview"/>
       </a>
       <br />
-      <sub><b>FishTracker9000</b></sub>
+      <sub><b>Wildfire Modeling</b></sub>
     </td>
     <td align="center">
       <a href="https://github.com/MarkOfUs/minecraft-texture-gen">
