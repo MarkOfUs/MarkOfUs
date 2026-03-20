@@ -25,7 +25,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/MarkOfUs/wildfires">
-        <img src="https://raw.githubusercontent.com/MarkOfUs/wildfires/blob/main/poster.jpg" width="350" alt="Wildfire Modeling Preview"/>
+        <img src="https://raw.githubusercontent.com/MarkOfUs/wildfires/main/poster.jpg" width="350" alt="Wildfire Modeling Preview"/>
       </a>
       <br />
       <sub><b>Wildfire Modeling</b></sub>
