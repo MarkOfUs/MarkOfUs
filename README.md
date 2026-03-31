@@ -30,12 +30,5 @@
       <br />
       <sub><b>Wildfire Modeling</b></sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/MarkOfUs/minecraft-texture-gen">
-        <img src="https://raw.githubusercontent.com/MarkOfUs/minecraft-texture-gen/main/architecture.jpg" width="350" alt="Minecraft Texture Gen Architecture"/>
-      </a>
-      <br />
-      <sub><b>Minecraft Texture Gen</b></sub>
-    </td>
   </tr>
 </table>
