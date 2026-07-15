@@ -1,34 +1,7 @@
-<h1 align="center">Hi there! 👋  
-<br>I'm Markus Hoehn</h1>
+# Markus Hoehn
 
-<p align="center">
-  Stanford student interested in mathematics and machine learning.
-</p>
+I'm a Stanford student studying mathematics. I'm interested in statistics and machine learning.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarkOfUs&abbreviated=true&style=for-the-badge" />
-  <a href="https://www.linkedin.com/in/markus-hoehn/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+Right now I'm working on transformers for enterprise data at [Lyon (YC S26)](https://lyon.so).
 
-## 📌 Pinned Projects
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MarkOfUs/Deaflingo">
-        <img src="https://raw.githubusercontent.com/MarkOfUs/MarkOfUs/main/deaflingo.jpg" width="350" alt="Deaflingo Preview"/>
-      </a>
-      <br />
-      <sub><b>Deaflingo</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MarkOfUs/wildfires">
-        <img src="https://raw.githubusercontent.com/MarkOfUs/wildfires/main/poster.jpg" width="350" alt="Wildfire Modeling Preview"/>
-      </a>
-      <br />
-      <sub><b>Wildfire Modeling</b></sub>
-    </td>
-  </tr>
-</table>
+More at [markushoehn.com](https://markushoehn.com). The best way to contact me is via hoehn [at] stanford.edu.
