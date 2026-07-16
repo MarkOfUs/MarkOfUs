@@ -6,7 +6,7 @@ Right now I’m working on transformers for enterprise data at [Lyon (YC S26)](h
 
 More at [markushoehn.com](https://markushoehn.com). The best way to contact me is via hoehn [at] stanford.edu.
 
-<br>
+#### Projects
 
 <table>
   <tr>
