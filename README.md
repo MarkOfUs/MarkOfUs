@@ -11,15 +11,22 @@
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://grokrover.com">
+        <img src="https://raw.githubusercontent.com/MarkOfUs/MarkOfUs/main/grokrover.jpg" width="270" alt="GrokRover Preview"/>
+      </a>
+      <br />
+      <sub><b>GrokRover</b></sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/MarkOfUs/Deaflingo">
-        <img src="https://raw.githubusercontent.com/MarkOfUs/MarkOfUs/main/deaflingo.jpg" width="330" alt="Deaflingo Preview"/>
+        <img src="https://raw.githubusercontent.com/MarkOfUs/MarkOfUs/main/deaflingo.jpg" width="270" alt="Deaflingo Preview"/>
       </a>
       <br />
       <sub><b>Deaflingo</b></sub>
     </td>
     <td align="center">
       <a href="https://github.com/MarkOfUs/wildfires">
-        <img src="https://raw.githubusercontent.com/MarkOfUs/wildfires/main/poster.jpg" width="330" alt="Wildfire Modeling Preview"/>
+        <img src="https://raw.githubusercontent.com/MarkOfUs/wildfires/main/poster.jpg" width="270" alt="Wildfire Modeling Preview"/>
       </a>
       <br />
       <sub><b>Wildfire Modeling</b></sub>
