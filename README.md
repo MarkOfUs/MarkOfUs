@@ -2,7 +2,7 @@
 
 <p align="center">I’m a Stanford student studying mathematics. I’m interested in statistics and machine learning.</p>
 
-<p align="center">Right now I’m working on transformers for enterprise data at <a href="https://lyon.so">Lyon (YC S26)</a>.</p>
+<p align="center">Right now I’m building transformer foundation models for enterprise data at <a href="https://lyon.so">Lyon (YC S26)</a>.</p>
 
 <p align="center">More at <a href="https://markushoehn.com">markushoehn.com</a>. The best way to contact me is via hoehn [at] stanford.edu.</p>
 
