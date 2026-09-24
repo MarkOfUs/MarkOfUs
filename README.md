@@ -1,9 +1,4 @@
-<h3 align="center">Markus Hoehn</h3>
-
 <p align="center">I study mathematics, statistics, and machine learning at Stanford.</p>
-
-<p align="center">Co-Founder of <a href="https://lyon.so">Lyon (YC S26)</a>, where I build foundation models for event data.</p>
-
 <p align="center">More at <a href="https://markushoehn.com">markushoehn.com</a>. The best way to contact me is via hoehn [at] stanford.edu.</p>
 
 <h4 align="center">Projects</h4>
