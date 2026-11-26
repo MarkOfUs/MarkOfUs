@@ -1,5 +1,10 @@
+<h3 align="center">Markus Hoehn</h3>
+
+<p align="center">Co-founder of <a href="https://lyon.so">Lyon (YC F26)</a>, building transformer foundation models for fraud and default.</p>
+
 <p align="center">I study mathematics, statistics, and machine learning at Stanford.</p>
-<p align="center">More at <a href="https://markushoehn.com">markushoehn.com</a>. The best way to contact me is via hoehn [at] stanford.edu.</p>
+
+<p align="center">More at <a href="https://markushoehn.com">markushoehn.com</a>. The best way to contact me is via markus [at] lyon.so.</p>
 
 <h4 align="center">Projects</h4>
 
